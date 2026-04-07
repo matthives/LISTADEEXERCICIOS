@@ -18,6 +18,6 @@ double distanciaPercorrida = quilometragemFinal - quilometragemInicial;
 
 double consumo = distanciaPercorrida / combustivel;
 
-Console.WriteLine($"o consumo de combustível por quilômetro percorrido em uma viagem é: {consumo:F2} L");
+Console.WriteLine($"o consumo de combustível por quilômetro percorrido em uma viagem é: {consumo:F2} Km/l");
 
 Console.ReadLine();
